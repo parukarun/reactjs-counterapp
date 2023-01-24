@@ -1,0 +1,61 @@
+
+
+.hi{
+  color: rgb(170, 53, 203);
+  cursor: default;
+  transition: 0.5s;
+  font-size: 2em;
+  font-family: 'Aclonica', sans-serif;
+}
+.hi:hover{
+  color: rgb(236, 121, 121);
+  transform: scale(1.25);
+  transition: 0.5s;
+}
+.b1{
+  font-family:'Carter One', cursive;
+  background-color: green;
+  color: aliceblue;
+  border:2px solid rgb(235, 196, 235);
+  transition: 0.5s;
+  
+}
+.b1:hover{
+  
+  color: rgb(127, 222, 108);
+  transform: scale(1.25);
+  transition: 0.5s;
+}
+.b2{
+  font-family:'Carter One', cursive;
+  background-color:rgb(172, 137, 65);
+  color: white;
+  border:2px solid rgb(235, 196, 235);
+  transition: 0.5s;
+}
+.b2:hover{
+  
+  color: rgb(234, 213, 107);
+  transform: scale(1.25);
+  transition: 0.5s;
+}
+.b3{
+  font-family:'Carter One', cursive;
+  background-color:black;
+  color: white;
+  border:2px solid rgb(235, 196, 235);
+  transition: 0.5s;
+}
+.b3:hover{
+  
+  color: rgb(173, 177, 155);
+  transform: scale(1.25);
+  transition: 0.5s;
+}
+.div1{
+  background-image: url("https://cdn.wallpapersafari.com/93/26/Stkyof.gif");
+  background-size: contain;
+ 
+        
+  
+}
